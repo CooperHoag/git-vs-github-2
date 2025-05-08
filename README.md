@@ -1,1 +1,3 @@
-# git-vs-github-2
+# GIT VS GITHUB
+
+This project is about learning git commands and how to use git version control with Github!
